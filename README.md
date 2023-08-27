@@ -14,7 +14,7 @@
   
 - 📫 Connect with me @ <a href="https://linkedin.com/in/shraddhachourasia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shraddhachourasia" height="20" width="20" /></a>
 
-- ⚡ Also worked on **Linux, PL/SQL**
+- ⚡ Also worked on **Linux, PL/SQL, Sales and Marketing**
 <br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="50" height="50" /> &nbsp;&nbsp;
