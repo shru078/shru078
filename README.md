@@ -11,6 +11,8 @@
 - 💬 Proficient at **SQL, Data Analysis and Data Visualization by using Power BI, Python libraries(numPy/pandas/jupyter), MS Excel and Tableau**
 
 - 📫 Reach to me at **shraddha.dchourasia@gmail.com**
+  
+- 📫 Connect with me @ <a href="https://linkedin.com/in/shraddhachourasia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shraddhachourasia" height="20" width="20" /></a>
 
 - ⚡ Also worked on **Linux, PL/SQL**
 <br>
@@ -23,7 +25,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" /> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" /> &nbsp;&nbsp;         
 </p>
-<p align="center"> Connect with me @
-  <a href="https://linkedin.com/in/shraddhachourasia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shraddhachourasia" height="20" width="20" />
-  </a>
-</p>
+
